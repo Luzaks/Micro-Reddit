@@ -1,24 +1,36 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Micro-Reddit
 
-Things you may want to cover:
+## Table of Contents
 
-* Ruby version
+* [About the Project](#about-the-project)
+  * [Built With](#built-with)
+* [Contact](#contact)
+* [Acknowledgements](#acknowledgements)
 
-* System dependencies
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
-* Configuration
+In this project we build the  necessary data structures to support link submissions and commenting for Reddit like platform.
 
-* Database creation
+Link for project specifications: [Odin-Project](https://www.theodinproject.com/courses/ruby-on-rails/lessons/building-with-active-record-ruby-on-rails)
 
-* Database initialization
+### Built With
 
-* How to run the test suite
+*   Ruby on Rails
+*   Rubocop
 
-* Services (job queues, cache servers, search engines, etc.)
+<!-- CONTACT -->
+## Contact
 
-* Deployment instructions
+Melissa Castorena - mcastorena0316@gmail.com
 
-* ...
+Guadalupe Rangel- kanemekanik@gmail.com
+
+Project Link: [Micro-Reddit](https://github.com/Luzaks/Micro-Reddit)
+
+<!-- ACKNOWLEDGEMENTS -->
+## Acknowledgements
+
+* [Microverse](https://www.microverse.org/)
